@@ -1,0 +1,13 @@
+# Generated project artifacts
+chroma_books/
+.gradio/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
